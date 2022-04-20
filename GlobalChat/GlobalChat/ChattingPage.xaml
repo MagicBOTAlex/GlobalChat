@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GlobalChat.ChattingPage"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             xmlns:model="clr-namespace:GlobalChat.Models"
+             x:Name="ChatPage">
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="{StaticResource Last}">
+            <StackLayout Orientation="Horizontal" Background="{StaticResource Third}">
+                <Image Margin="10,10" Source="GlobeLogo.png" HeightRequest="40" WidthRequest="40"/>
+                <StackLayout Orientation="Vertical">
+                    <Label Padding="-10,5,0,0" Margin="0, 0, 0, 0" Text="Hello!" TextTransform="None" FontSize="Medium" TextColor="{StaticResource TitleColor}"/>
+                    <Label Padding="-10,-5,0,0" x:Name="NameBox" Text="Sample" TextTransform="None" TextColor="{StaticResource TextColor}" FontSize="Medium" HorizontalOptions="Center" VerticalOptions="Center"/>
+                </StackLayout>
+                <Button Padding="0" Text="Change" HorizontalOptions="EndAndExpand" BackgroundColor="{StaticResource Second}" Margin="0,5,5,5"/>
+            </StackLayout>
+
+            <RefreshView Refreshing="RefreshView_Refreshing">
+                <CollectionView x:Name="ItemsListView"
+                                    ItemsSource="{Binding Source={x:Reference ChatPage}, Path=Messages}"
+                                    SelectionMode="None"
+                                    BackgroundColor="{StaticResource Last}"
+                                    Margin="0,10,0,0">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <StackLayout BackgroundColor="White">
+                                <Label FontSize="Title" Text="1213"/>
+                                <StackLayout Margin="10,0,10,10"  BackgroundColor="{StaticResource Third}" x:DataType="model:Message">
+                                    <Label Padding="3,1" Margin="10,5,0,-5" Text="{Binding Name}" FontSize="Medium" TextColor="{StaticResource TitleColor}" BackgroundColor="{StaticResource Second}" HorizontalOptions="Start"/>
+                                    <Label Margin="10, 5" Text="{Binding Content}" TextColor="{StaticResource TextColor}" FontSize="13" />
+                                </StackLayout>
+                            </StackLayout>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </RefreshView>
+
+            <StackLayout Orientation="Horizontal" BackgroundColor="{StaticResource Second}">
+                <Entry x:Name="MessageEntry" WidthRequest="270" Placeholder="Enter your message here..." MaxLength="2000" Margin="20,0,0,0" TextTransform="None" />
+                <ImageButton Clicked="ImageButton_Clicked" BackgroundColor="{StaticResource Top}" Padding="10" Margin="0,0,15,0" Source="Arrow.png" HeightRequest="50" WidthRequest="50" HorizontalOptions="EndAndExpand" VerticalOptions="CenterAndExpand"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

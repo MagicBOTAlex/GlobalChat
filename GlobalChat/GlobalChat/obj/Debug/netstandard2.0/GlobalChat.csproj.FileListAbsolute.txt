@@ -1,0 +1,16 @@
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\bin\Debug\netstandard2.0\GlobalChat.deps.json
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\bin\Debug\netstandard2.0\GlobalChat.dll
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\bin\Debug\netstandard2.0\ref\GlobalChat.dll
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\bin\Debug\netstandard2.0\GlobalChat.pdb
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\obj\Debug\netstandard2.0\GlobalChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\obj\Debug\netstandard2.0\ChattingPage.xaml.g.cs
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\obj\Debug\netstandard2.0\GlobalChat.AssemblyInfoInputs.cache
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\obj\Debug\netstandard2.0\GlobalChat.AssemblyInfo.cs
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\obj\Debug\netstandard2.0\GlobalChat.csproj.CoreCompileInputs.cache
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\obj\Debug\netstandard2.0\XamlC.stamp
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\obj\Debug\netstandard2.0\GlobalChat.dll
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\obj\Debug\netstandard2.0\ref\GlobalChat.dll
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\obj\Debug\netstandard2.0\GlobalChat.pdb
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat\obj\Debug\netstandard2.0\GlobalChat.csproj.AssemblyReference.cache

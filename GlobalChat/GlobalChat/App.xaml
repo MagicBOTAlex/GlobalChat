@@ -3,6 +3,15 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="GlobalChat.App">
     <Application.Resources>
-
+        <ResourceDictionary>
+            <Color x:Key="LogoColor">#8CE175</Color>
+            <Color x:Key="TitleColor">#FFFFFF</Color>
+            <Color x:Key="TextColor">#99aab5</Color>
+            <Color x:Key="Top">#797F88</Color>
+            <Color x:Key="First">#424549</Color>
+            <Color x:Key="Second">#36393e</Color>
+            <Color x:Key="Third">#282b30</Color>
+            <Color x:Key="Last">#1e2124</Color>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

@@ -1,14 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "O66QseSDJkT1DZOc3FHwCgV2gfysd414GS38uoA9qz+UAK7CmBrv5yrLAZCT46DUtFVPbaA/pX6R9tlJxbRYNw==",
+  "dgSpecHash": "y42ZkxM3NHpOB8ujB6Nh8jlBzHbhddG7J0Ap0xffeOwOxQjpai3oT9OGWhUHyU0GiO6/dJYv9gnremLY9HHFqA==",
   "success": true,
   "projectFilePath": "C:\\FastAccessFiles\\OtherProgrammingProjects\\GlobalChat\\GlobalChat\\GlobalChat\\GlobalChat.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\restsharp\\107.3.1-alpha.0.24\\restsharp.107.3.1-alpha.0.24.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\BOTAlex\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\BOTAlex\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\BOTAlex\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\xamarin.communitytoolkit\\2.0.1\\xamarin.communitytoolkit.2.0.1.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\xamarin.essentials\\1.7.2\\xamarin.essentials.1.7.2.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\xamarin.forms\\5.0.0.2401\\xamarin.forms.5.0.0.2401.nupkg.sha512"
   ],
   "logs": []
 }

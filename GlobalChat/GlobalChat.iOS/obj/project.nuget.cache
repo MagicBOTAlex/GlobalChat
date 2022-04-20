@@ -1,12 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "p2x4jRSvNEVbuULkJh7l9XhWEZLk26V6R1TYtRrGVwqvL97Tr//31T7n6ORA3lQ9dwGO7qun4nwjj95rKtLxyw==",
+  "dgSpecHash": "MZTaiTcpTpfoKd4OWY8QVa+UxZoBG2I87dIJkCHXGF16E+OgYo7cDHrkKoCnA5DZXznkZxSIRXnoiuuS+tGXww==",
   "success": true,
   "projectFilePath": "C:\\FastAccessFiles\\OtherProgrammingProjects\\GlobalChat\\GlobalChat\\GlobalChat.iOS\\GlobalChat.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\restsharp\\107.3.1-alpha.0.24\\restsharp.107.3.1-alpha.0.24.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\BOTAlex\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\BOTAlex\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
-    "C:\\Users\\BOTAlex\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\system.text.encodings.web\\5.0.0\\system.text.encodings.web.5.0.0.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\xamarin.communitytoolkit\\2.0.1\\xamarin.communitytoolkit.2.0.1.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\xamarin.essentials\\1.7.2\\xamarin.essentials.1.7.2.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\xamarin.forms\\5.0.0.2401\\xamarin.forms.5.0.0.2401.nupkg.sha512"
   ],
   "logs": []
 }
