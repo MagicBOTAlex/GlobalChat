@@ -1,1 +1,0 @@
-C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.UWP\GlobalChat.UWP.csproj;x64
