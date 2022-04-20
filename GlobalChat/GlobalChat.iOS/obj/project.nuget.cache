@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p2x4jRSvNEVbuULkJh7l9XhWEZLk26V6R1TYtRrGVwqvL97Tr//31T7n6ORA3lQ9dwGO7qun4nwjj95rKtLxyw==",
+  "success": true,
+  "projectFilePath": "C:\\FastAccessFiles\\OtherProgrammingProjects\\GlobalChat\\GlobalChat\\GlobalChat.iOS\\GlobalChat.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\BOTAlex\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

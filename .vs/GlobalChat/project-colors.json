@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "200d9871-4aab-4b7b-ab95-cd9bcf775373": {
+      "ProjectGuid": "200d9871-4aab-4b7b-ab95-cd9bcf775373",
+      "DisplayName": "GlobalChat",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
