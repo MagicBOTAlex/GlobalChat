@@ -57,6 +57,14 @@ public static class FirebaseHandler
             .ToArray() 
         };
 
+        #region unused code
+        //// deletes the database so it doesn't fill up all of the storage on there
+        //if (dumbList.Any(x=>x.DatePosted > DateTimeOffset.Now.ToUnixTimeSeconds() + 2000))
+        //{
+        //    new HttpClient().DeleteAsync("https://globalchat-4a89f-default-rtdb.europe-west1.firebasedatabase.app/Database.json");
+        //}
+        #endregion
+
         string json = JsonConvert.SerializeObject(output); // serializes the "output" back into a json object
         SendData(json); // I refuse explaining this line of code
     }

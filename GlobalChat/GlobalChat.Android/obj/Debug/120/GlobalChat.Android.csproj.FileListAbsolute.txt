@@ -1,10 +1,5 @@
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\bin\Debug\GlobalChat.Android.dll
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\bin\Debug\GlobalChat.Android.pdb
-C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\bin\Debug\com.companyname.globalchat.apk
-C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\bin\Debug\com.companyname.globalchat.aab
-C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\bin\Debug\com.companyname.globalchat-Signed.aab
-C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\bin\Debug\com.companyname.globalchat-Signed.apk
-C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\bin\Debug\com.companyname.globalchat-Signed.apk.idsig
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\bin\Debug\GlobalChat.dll
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\bin\Debug\GlobalChat.pdb
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
@@ -45,10 +40,7 @@ C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.And
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\GlobalChat.Android.csproj.CopyComplete
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\GlobalChat.Android.dll
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\GlobalChat.Android.pdb
-C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\bin\com.companyname.globalchat.apk
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\bin\base.zip
-C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\bin\com.companyname.globalchat.aab
-C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\bin\com.companyname.globalchat.apks
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\res\values\styles.xml
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\res\values\colors.xml
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\res\mipmap-anydpi-v26\icon.xml
@@ -632,7 +624,6 @@ C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.And
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\src\mono\MonoPackageManager_Resources.java
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\src\xamarin\essentials\fileProvider.java
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\bin\packaged_resources
-C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\src\com\companyname\globalchat\R.java
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\compressed_assemblies.arm64-v8a.s
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\compressed_assemblies.armeabi-v7a.s
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\compressed_assemblies.x86.s
@@ -661,3 +652,12 @@ C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.And
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\bin\Debug\Global.Chat.apk
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\bin\Debug\Global.Chat.aab
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\bin\Debug\Global.Chat-Signed.aab
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\bin\Debug\Global.Chat-Signed.apk
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\bin\Debug\Global.Chat-Signed.apk.idsig
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\bin\Global.Chat.apk
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\bin\Global.Chat.aab
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\bin\Global.Chat.apks
+C:\FastAccessFiles\OtherProgrammingProjects\GlobalChat\GlobalChat\GlobalChat.Android\obj\Debug\120\android\src\global\chat\R.java
