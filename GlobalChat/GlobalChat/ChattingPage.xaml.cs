@@ -26,6 +26,7 @@ namespace GlobalChat
             }
         }
 
+        Timer _Timer;
 
         public ChattingPage()
         {
@@ -35,6 +36,18 @@ namespace GlobalChat
             UpdateChat();
 
             MessageEntry.Completed += (sender, e) => SendMessage();
+
+            _Timer = new Timer((o) =>
+            {
+                // stuff to do when timer ticks
+                Xamarin.Forms.Device.BeginInvokeOnMainThread(() =>
+                {
+                    this.UpdateChat();
+                });
+
+
+            }, null, 0, 5000);
+
         }
 
         private void SendMessage()
@@ -63,13 +76,20 @@ namespace GlobalChat
             }
             else
             {
-                Messages = new ObservableCollection<Message>(data.Messages.ToList());
+                Messages = new ObservableCollection<Message>(data.Messages.Reverse().ToList());
             }
         }
 
         private void ImageButton_Clicked(object sender, EventArgs e)
         {
             SendMessage();
+        }
+
+        private void ChangeButton_Clicked(object sender, EventArgs e)
+        {
+            _Timer.Cancel();
+            Preferences.Set("Name", "");
+            ((App)App.Current).ChangeScreen(new MainPage());
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using GlobalChat.Models;
+using System;
 
 public class DatabaseStructure
 {

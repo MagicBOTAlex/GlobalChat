@@ -50,8 +50,7 @@ namespace GlobalChat
                 return;
             }
 
-            var page = new ChattingPage();
-            this.Content = page.Content;
+            ((App)App.Current).ChangeScreen(new ChattingPage());
         }
     }
 }

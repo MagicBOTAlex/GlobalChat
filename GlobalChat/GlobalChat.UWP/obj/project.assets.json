@@ -520,7 +520,6 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
-          "RestSharp": "107.3.1-alpha.0.24",
           "Xamarin.CommunityToolkit": "2.0.1",
           "Xamarin.Essentials": "1.7.2",
           "Xamarin.Forms": "5.0.0.2401"
@@ -1208,7 +1207,6 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
-          "RestSharp": "107.3.1-alpha.0.24",
           "Xamarin.CommunityToolkit": "2.0.1",
           "Xamarin.Essentials": "1.7.2",
           "Xamarin.Forms": "5.0.0.2401"
@@ -1897,7 +1895,6 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
-          "RestSharp": "107.3.1-alpha.0.24",
           "Xamarin.CommunityToolkit": "2.0.1",
           "Xamarin.Essentials": "1.7.2",
           "Xamarin.Forms": "5.0.0.2401"
@@ -2583,7 +2580,6 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
-          "RestSharp": "107.3.1-alpha.0.24",
           "Xamarin.CommunityToolkit": "2.0.1",
           "Xamarin.Essentials": "1.7.2",
           "Xamarin.Forms": "5.0.0.2401"
@@ -3271,7 +3267,6 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
-          "RestSharp": "107.3.1-alpha.0.24",
           "Xamarin.CommunityToolkit": "2.0.1",
           "Xamarin.Essentials": "1.7.2",
           "Xamarin.Forms": "5.0.0.2401"
@@ -3960,7 +3955,6 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
-          "RestSharp": "107.3.1-alpha.0.24",
           "Xamarin.CommunityToolkit": "2.0.1",
           "Xamarin.Essentials": "1.7.2",
           "Xamarin.Forms": "5.0.0.2401"
@@ -4648,7 +4642,6 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
-          "RestSharp": "107.3.1-alpha.0.24",
           "Xamarin.CommunityToolkit": "2.0.1",
           "Xamarin.Essentials": "1.7.2",
           "Xamarin.Forms": "5.0.0.2401"
@@ -5337,7 +5330,6 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
-          "RestSharp": "107.3.1-alpha.0.24",
           "Xamarin.CommunityToolkit": "2.0.1",
           "Xamarin.Essentials": "1.7.2",
           "Xamarin.Forms": "5.0.0.2401"

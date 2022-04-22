@@ -113,10 +113,6 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
-            "RestSharp": {
-              "target": "Package",
-              "version": "[107.3.1-alpha.0.24, )"
-            },
             "Xamarin.CommunityToolkit": {
               "target": "Package",
               "version": "[2.0.1, )"

@@ -24,5 +24,10 @@ namespace GlobalChat
         protected override void OnResume()
         {
         }
+
+        public void ChangeScreen(Page page)
+        {
+            MainPage = page;
+        }
     }
 }
