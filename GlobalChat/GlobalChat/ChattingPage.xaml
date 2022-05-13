@@ -27,8 +27,8 @@
                         <DataTemplate>
                             <StackLayout>
                                 <StackLayout Margin="10,0,10,10"  BackgroundColor="{StaticResource Third}" x:DataType="model:Message">
-                                    <Label Padding="3,1" Margin="10,5,0,-5" Text="{Binding Name}" FontSize="Medium" TextColor="{StaticResource TitleColor}" BackgroundColor="{StaticResource Second}" HorizontalOptions="Start"/>
-                                    <Label Margin="10, 5" Text="{Binding Content}" TextColor="{StaticResource TextColor}" FontSize="13" />
+                                    <Label Padding="3,1" Margin="10,5,0,-5" Text="{Binding Name}" FontSize="13" TextColor="{StaticResource TitleColor}" BackgroundColor="{StaticResource Second}" HorizontalOptions="Start"/>
+                                    <Label Margin="10, 5" Text="{Binding Content}" TextColor="{StaticResource TextColor}" FontSize="Medium" />
                                 </StackLayout>
                             </StackLayout>
                         </DataTemplate>

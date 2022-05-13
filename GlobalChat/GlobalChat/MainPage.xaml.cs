@@ -14,6 +14,7 @@ namespace GlobalChat
         public MainPage()
         {
             InitializeComponent();
+            UpdatePromoteText();
 
             if (!string.IsNullOrEmpty(Preferences.Get("Name", "")))
             {
@@ -30,15 +31,27 @@ namespace GlobalChat
 
         private async void LoginSubmit()
         {
-            if (NameEntry.Text.Length <= 0)
+            if (NameEntry.Text is null || NameEntry.Text.Length <= 0)
             {
                 bool answer = await DisplayAlert("Retard", "Atleast input a single character", "Sure", "K");
+                Preferences.Set("promote", true);
+                UpdatePromoteText();
                 return;
             }
 
             Preferences.Set("Name", NameEntry.Text);
 
             StartChatting();
+        }
+
+        void UpdatePromoteText()
+        {
+            RandsomeText.IsVisible = Preferences.Get("promote", false);
+            OnPropertyChanged();
+            if (Preferences.ContainsKey("promote"))
+            {
+                Preferences.Clear("promote");
+            }
         }
 
         private async void StartChatting()
